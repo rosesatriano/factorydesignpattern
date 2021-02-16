@@ -1,4 +1,4 @@
-package factorydesignpattern;
+package factory;
 
 public class BikeStoreDriver {
 
